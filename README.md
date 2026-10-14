@@ -8,7 +8,7 @@ Static HTML and CSS. No build step or JavaScript is required.
 
 - Home: biography and talks
 - Research: publications and working papers
-- Teaching: courses and undergraduate mentorship
+- Teaching: courses and instructional experience
 - Background: education, grants, awards, and service
 
 The website includes no CV file or CV download link.
